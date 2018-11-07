@@ -27,30 +27,91 @@ dAPP을 사용하는 모든 유저에게는 단 1개의 유니크한 열쇠가 �
 
 ## 화면캡쳐
 #### 메인 및 트랙잭션
-<img width="33%" src="img/OWNER.png">
-<img width="33%" src="img/REQUESTER.png">
-<img width="33%" src="img/TRANSACTION.png">
+
+<table>
+  <tr>
+    <td>
+      <img width="100%" src="img/OWNER.png">
+    </td>
+    <td>
+      <img width="100%" src="img/REQUESTER.png">
+    </td>
+    <td>
+      <img width="100%" src="img/TRANSACTION.png">
+    </td>
+  </tr>
+</table>
 
 #### 문 열기
-<img width="33%" src="img/OPEN_1.png">
-<img width="33%" src="img/OPEN_2.png">
+
+<table>
+  <tr>
+    <td>
+      <img src="img/OPEN_1.png">
+    </td>
+    <td>
+      <img src="img/OPEN_2.png">
+    </td>
+  </tr>
+</table>
 
 #### 키 요청하기
-<img width="33%" src="img/REQUEST_1.png">
-<img width="33%" src="img/REQUEST_2.png">
+
+<table>
+  <tr>
+    <td>
+      <img src="img/REQUEST_1.png">
+    </td>
+    <td>
+      <img src="img/REQUEST_2.png">
+    </td>
+  </tr>
+</table>
 
 #### 응답하기
-<img width="33%" src="img/RESPONSE_1.png">
-<img width="33%" src="img/RESPONSE_2.png">
-<img width="33%" src="img/RESPONSE_3.png">
+
+<table>
+  <tr>
+    <td>
+      <img src="img/RESPONSE_1.png">
+    </td>
+    <td>
+      <img src="img/RESPONSE_2.png">
+    </td>
+    <td>
+      <img src="img/RESPONSE_3.png">
+    </td>
+  </tr>
+</table>
 
 #### 거절
-<img width="33%" src="img/REJECTED_1.png">
-<img width="33%" src="img/REJECTED_2.png">
-<img width="33%" src="img/REJECTED_3.png">
+
+<table>
+  <tr>
+    <td>
+      <img src="img/REJECTED_1.png">
+    </td>
+    <td>
+      <img src="img/REJECTED_2.png">
+    </td>
+    <td>
+      <img src="img/REJECTED_3.png">
+    </td>
+  </tr>
+</table>
 
 #### 수락
-<img width="33%" src="img/ACCEPTED_1.png">
-<img width="33%" src="img/ACCEPTED_2.png">
-<img width="33%" src="img/ACCEPTED_3.png">
 
+<table>
+  <tr>
+    <td>
+      <img src="img/ACCEPTED_1.png">
+    </td>
+    <td>
+      <img src="img/ACCEPTED_2.png">
+    </td>
+    <td>
+      <img src="img/ACCEPTED_3.png">
+    </td>
+  </tr>
+</table>
